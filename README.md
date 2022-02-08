@@ -1,4 +1,5 @@
-# MajProj
+# DiabetesPredictor
+
 This web app predicts whether a person has Diabetes or not.
 
 
